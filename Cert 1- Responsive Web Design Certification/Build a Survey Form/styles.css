@@ -1,0 +1,36 @@
+body {
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+#title {
+	font-weight: 700;
+}
+#title, #description {
+	margin: auto;
+	display: block;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+.row {
+	margin-bottom: 10px;
+}
+#checkboxes input {
+	margin-bottom: 5px;
+}
+#submit {
+	padding-left: 15px;
+	padding-right: 15px;	
+	font-weight: 600;
+	color: white;
+	background-color: #008ad2;
+	border: none;
+}
+#submit-div {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
