@@ -5,9 +5,9 @@ Each certificate program is meant to take 300 hours to complete. I have made the
 
 A user does not need to accomplish every single challenge within each certificate program to obtain the certificate. Instead, they just need to complete the 5 projects at the end of each program, which get progressively more difficult. 
 
------------------------------
-All 6 Certification Programs:
------------------------------
+---------------------------------
+Free Code Camp - Full Curriculum:
+---------------------------------
 
 1. Responsive Web Design Certification (300 hours)
 
