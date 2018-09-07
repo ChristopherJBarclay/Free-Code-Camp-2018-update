@@ -1,4 +1,4 @@
-# Free-Code-Camp-2018
+# Free-Code-Camp-2018-update
 My code for the new rollout of Free Code Camp's massive 2018 curriculum update
 
 Each certificate program is meant to take 300 hours to complete. I have made the decision to complete every single challenge for each certificate that I obtain from FCC.
